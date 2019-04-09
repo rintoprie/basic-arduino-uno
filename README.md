@@ -1,2 +1,2 @@
 # arduino-uno-blink
-Basic Arduino code for LED blinking
+Basic Arduino code for multiple LED blinking
