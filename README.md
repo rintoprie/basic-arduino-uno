@@ -1,2 +1,2 @@
 # Basic Arduino Code
-Some basic Arduino codes tested in Arduino Uno
+Some basic codes tested in Arduino Uno
